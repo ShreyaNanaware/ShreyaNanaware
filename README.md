@@ -21,7 +21,7 @@
 <td width="40%" align="center">
 
 <!-- Upload your image as profile.jpg in repo -->
-<img src="profile.jpg.jpeg" alt="Shreya Nanaware" width="450" style="border-radius:50%;"/>
+<img src="profile.jpg" alt="Shreya Nanaware" width="450" style="border-radius:50%;"/>
 
 </td>
 </tr>
@@ -81,14 +81,13 @@
 
 ## 🌐 Connect With Me 
 <p align="center">
-  <!-- replace the links with your actual handles -->
-  <a href="/https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
   </a>
-  <a href="/https://www.instagram.com/shreyananaware/" target="_blank">
+  <a href="https://www.instagram.com/shreyananaware/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" />
   </a>
-  <a href="/https://www.instagram.com/shreyananaware/" target="_blank">
+  <a href="https://x.com/Your_Twitter_Handle" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" />
   </a>
   <a href="mailto:Shreyananaware1942@gmail.com">
@@ -102,3 +101,4 @@
   <b>Visitor Count 👀</b><br/>
   <img src="https://profile-counter.glitch.me/ShreyaNanaware/count.svg"/>
 </p>
+vvv
