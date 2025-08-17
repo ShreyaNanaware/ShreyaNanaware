@@ -34,7 +34,7 @@
 <br/>
 
   <!-- DevOps / Cloud / OS -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,jenkins,linux,nginx,apache&theme=dark" />
+  <img src="https://skillicons.dev/icons?i= aws,azure,git,github,docker,jenkins,linux,&theme=dark" />
 
   <br/>
 
