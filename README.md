@@ -82,16 +82,16 @@
 ## 🌐 Connect With Me (curved-square icons)
 <p align="center">
   <!-- replace the links with your actual handles -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/https://www.instagram.com/shreyananaware/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <a href="https://x.com/https://www.instagram.com/shreyananaware/" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Shreyananaware1942@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
   </a>
 </p>
