@@ -19,22 +19,22 @@
 <p align="center">
 
   <!-- Programing Languages -->
-  <img src="https://skillicons.dev/icons?i=php,js,java,python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,js,java,python&theme=dark" />
 
   <br/>
 
   <!-- Web / Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,react,nodejs,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html5,css,wordpress,react,nodejs&theme=dark" />
 
   <br/>
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
   <br/>
 
   <!-- DevOps / Cloud / OS -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,azure,linux,nginx,apache,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,jenkins,linux,nginx,apache&theme=dark" />
 
   <br/>
 
