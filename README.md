@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack (icons are rounded-square)
+## 🛠️ Tech Stack 
 <p align="center">
 
   <!-- Programing Languages -->
@@ -31,7 +31,7 @@
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
-  <br/>
+
 
   <!-- DevOps / Cloud / OS -->
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,jenkins,linux,nginx,apache&theme=dark" />
