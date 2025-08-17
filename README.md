@@ -79,7 +79,7 @@
 
 ---
 
-## 🌐 Connect With Me (curved-square icons)
+## 🌐 Connect With Me 
 <p align="center">
   <!-- replace the links with your actual handles -->
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
