@@ -80,19 +80,7 @@
 ---
 
 ## 🌐 Connect With Me 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
-  </a>
-  <a href="https://www.instagram.com/shreyananaware/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" />
-  </a>
-  <a href="https://x.com/Your_Twitter_Handle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" />
-  </a>
-  <a href="mailto:Shreyananaware1942@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
-  </a>
+
 </p>## 🌐 Connect With Me 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
