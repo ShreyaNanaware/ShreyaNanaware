@@ -26,12 +26,12 @@
   <!-- Web / Frameworks -->
   <img src="https://skillicons.dev/icons?i=html5,css,wordpress,react,nodejs&theme=dark" />
 
-  <br/>
+  
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
-
+<br/>
 
   <!-- DevOps / Cloud / OS -->
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,jenkins,linux,nginx,apache&theme=dark" />
