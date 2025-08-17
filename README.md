@@ -21,7 +21,7 @@
 <td width="40%" align="center">
 
 <!-- Upload your image as profile.jpg in repo -->
-<img src="profile.jpg.jpeg" alt="Shreya Nanaware" width="400" style="border-radius:50%;"/>
+<img src="profile.jpg.jpeg" alt="Shreya Nanaware" width="500" style="border-radius:50%;"/>
 
 </td>
 </tr>
