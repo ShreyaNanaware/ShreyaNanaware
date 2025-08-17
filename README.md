@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="60%">
+
 <h1 align="center"> 🙏 Namaste, I'm Shreya Nanaware </h1>
 
 <p align="center">
@@ -13,6 +17,16 @@
 - ⚙️ Interested in **DevOps** (CI/CD, containers, cloud)
 - 🧠 Soft Skills: `Fast Learner` • `Problem Solver` • `Team Player` • `Clear Communicator` • `Detail Oriented`
 
+</td>
+<td width="40%" align="center">
+
+<!-- Upload your image as profile.jpg in repo -->
+<img src="profile.jpg" alt="Shreya Nanaware" width="250" style="border-radius:50%;"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack 
@@ -26,12 +40,11 @@
   <!-- Web / Frameworks -->
   <img src="https://skillicons.dev/icons?i=html5,css,wordpress,react,nodejs&theme=dark" />
 
-  
-
   <!-- Databases -->
+  <br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
-<br/>
+  <br/>
 
   <!-- DevOps / Cloud / OS -->
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,jenkins,linux&theme=dark" />
@@ -60,9 +73,9 @@
 ---
 
 ## 🧠 Fun Bits
-- 🐧 I’m happiest in the terminal
-- 🔍 I love debugging & reading source code
-- 📚 I learn in public and document what I build
+- 🐧 I’m happiest in the terminal  
+- 🔍 I love debugging & reading source code  
+- 📚 I learn in public and document what I build  
 
 ---
 
