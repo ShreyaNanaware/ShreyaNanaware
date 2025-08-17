@@ -93,7 +93,22 @@
   <a href="mailto:Shreyananaware1942@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
   </a>
+</p>## 🌐 Connect With Me 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-nanaware-925922200/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
+  </a>
+  <a href="https://www.instagram.com/shreyananaware/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" />
+  </a>
+  <a href="https://x.com/Shreya1942?t=aiqD22Cs3GUU6I0y_J7AWQ&s=08" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="48" height="48" />
+  </a>
+  <a href="mailto:Shreyananaware1942@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
+  </a>
 </p>
+
 
 ---
 
