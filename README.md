@@ -16,6 +16,8 @@
 - 📱 Learning **Android** (Java/Kotlin) & sharpening **Java/J2EE** skills
 - ⚙️ Interested in **DevOps** (CI/CD, containers, cloud)
 - 🧠 Soft Skills: `Fast Learner` • `Problem Solver` • `Team Player` • `Clear Communicator` • `Detail Oriented`
+- [![Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=wordpress)](https://whynotshreya.great-site.net)
+
 
 </td>
 <td width="40%" align="center">
